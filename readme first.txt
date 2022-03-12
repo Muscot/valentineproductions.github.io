@@ -80,9 +80,3 @@ JUNG paddelevent
 Bröd och salt baka bullar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vg1YR59rVuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-git remote add origin git@github.com:Muscot/valentineproductions.github.io.git
-git branch -M master
-git push -u origin master
